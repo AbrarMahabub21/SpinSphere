@@ -26,12 +26,11 @@ dist-ssr
 # Ignore all JSON lock files
 *.lock.json
 
-# Ignore specific JSON files by name
-filename.json
+*package-lock.json
+*package.json
 
 # Ignore all JSON files in a specific directory
 path/to/directory/*.json
 
-# Ignore all JSON files
 *.json
 
